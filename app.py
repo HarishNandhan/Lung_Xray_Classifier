@@ -6,7 +6,7 @@ from PIL import Image
 from pathlib import Path
 
 
-# Started my pipeline
+# This is for saving images
 def save_image(uploaded_file):
     if uploaded_file is not None:
         save_path = os.path.join("images", "input.jpeg")
