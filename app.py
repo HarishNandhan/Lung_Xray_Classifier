@@ -6,7 +6,7 @@ from PIL import Image
 from pathlib import Path
 
 
-# Change - 3
+# Change - 3 chatgpt
 def save_image(uploaded_file):
     if uploaded_file is not None:
         save_path = os.path.join("images", "input.jpeg")
