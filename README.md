@@ -1,4 +1,4 @@
-# Xray lung classifier
+# Lung Xray Classifier
 
 Data link: https://drive.google.com/file/d/1pfIAlurfeqFTbirUZ5v_vapIoGPgRiXY/view?usp=sharing
 
