@@ -1,7 +1,3 @@
-# Lung Xray Classifier
-
-Data link: https://drive.google.com/file/d/1pfIAlurfeqFTbirUZ5v_vapIoGPgRiXY/view?usp=sharing
-
 
 ## Workflows
 
@@ -12,5 +8,3 @@ Data link: https://drive.google.com/file/d/1pfIAlurfeqFTbirUZ5v_vapIoGPgRiXY/vie
 - pipeline
 - main
 
-
-# Pipeline is completed and it's hosted sucessfully using the Amazon EC2.
